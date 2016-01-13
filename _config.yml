@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.9221267
+color:
+  saturation: 0.3979845
+  lightness: 0.9433224
+  brandStrength: 0.6740065
+  brandColors:
+    - '#3A424B'
+    - '#FF9A88'
+    - '#9BF2FF'
+    - '#27BDFF'
+    - '#0664B4'
+  rhythmicContrast: 0.1494408
+name: tectalic
