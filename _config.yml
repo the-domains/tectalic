@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0.9221267
 color:
   saturation: 0.3979845
-  lightness: 0.9433224
   brandStrength: 0.6740065
+  rhythmicContrast: 0.1494408
   brandColors:
     - '#3A424B'
     - '#FF9A88'
     - '#9BF2FF'
     - '#27BDFF'
     - '#0664B4'
-  rhythmicContrast: 0.1494408
+  lightness: 0.9433224
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+typography_spectrum: 0.9221267
 name: tectalic
