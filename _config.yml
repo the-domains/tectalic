@@ -1,14 +1,7 @@
-color:
-  saturation: 0.3979845
-  brandStrength: 0.6740065
-  rhythmicContrast: 0.1494408
-  brandColors:
-    - '#3A424B'
-    - '#FF9A88'
-    - '#9BF2FF'
-    - '#27BDFF'
-    - '#0664B4'
-  lightness: 0.9433224
+name: tectalic
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.9221267
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-typography_spectrum: 0.9221267
-name: tectalic
+title: The Tectalic
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3A424B'
+    - '#FF9A88'
+    - '#9BF2FF'
+    - '#27BDFF'
+    - '#0664B4'
+  brandStrength: 0.6740065
+  lightness: 0.9433224
+  saturation: 0.3979845
+  rhythmicContrast: 0.1494408
+purpose: []
